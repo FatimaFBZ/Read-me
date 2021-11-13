@@ -1,6 +1,6 @@
 
   # README-Generator
-  https://github.com/FatimaFBZ/README-Generator![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
  # Description
  inquire,fs
  # Table Of Contents
@@ -9,18 +9,24 @@
  * [License](#license)
  * [questions](#questions)
  # installation
- 
+ install the inquire
  The foloowing necessary dependencies must be installed to run the application.
  # usage
- run in the terminal
+ just run the terminal
  # license
  Apache License
- 
+
+ # questions
+ reach me out on my contact informations down below.
+ undefined
+
  # contact
- # gitHub:FatimaFBZ
+ # gitHub:FatimaFBZ.
  # email:fatima_baluch@hotmail.com;
 
 
 
 
   
+ 
+ 

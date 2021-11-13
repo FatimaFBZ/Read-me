@@ -46,7 +46,11 @@ const questions = [{
     type: "input",
     message: "instructions to follow?",
     name: "Instructions",
-}]
+},{
+    type: "input",
+    message: "questions?",
+    name: "questions ",
+},]
 
 
 // TODO: Create a function to write README file
