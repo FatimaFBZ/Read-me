@@ -1,18 +1,18 @@
 
-  # README-Generator
+  # adf
   ![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
  # Description
- inquire,fs
+ df
  # Table Of Contents
  * [Installation](#installation)
  * [Usage](#usage)
  * [License](#license)
  * [questions](#questions)
  # installation
- install the inquire
+ df
  The foloowing necessary dependencies must be installed to run the application.
  # usage
- just run the terminal
+ df
  # license
  Apache License
 
@@ -21,12 +21,12 @@
  undefined
 
  # contact
- # gitHub:FatimaFBZ.
- # email:fatima_baluch@hotmail.com;
+ # gitHub:df
+ # email:d;
 
 
 
 
-  
- 
+  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+ (https://opensource.org/licenses/Apache-2.0)
  
