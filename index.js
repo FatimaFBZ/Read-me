@@ -49,7 +49,7 @@ const questionsList = [{
 },{
     type: "input",
     message: "any questions?",
-    name: "questions ",
+    name: "questions"
 },]
 
 

@@ -44,7 +44,8 @@ function generateMarkdown(data) {
  * [Installation](#installation)
  * [Usage](#usage)
  * [License](#license)
- * [questions](#questions)
+ * [Questions](#questions)
+ 
  # installation
  ${data.Installation}
  The foloowing necessary dependencies must be installed to run the application.
@@ -54,10 +55,9 @@ function generateMarkdown(data) {
  ${data.license}
 
  # questions
- ${data.Questions}
+ ${data.questions}
  reach me out on my contact informations down below.
  
-
  # contact
  # gitHub:${data.username}
  # email:${data.email};

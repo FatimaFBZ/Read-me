@@ -1,5 +1,5 @@
 
-  # README-GENERATOR
+  # README-Generator
   ![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
  # Description
  inquirer,fs.
@@ -7,7 +7,8 @@
  * [Installation](#installation)
  * [Usage](#usage)
  * [License](#license)
- * [questions](#questions)
+ * [Questions](#questions)
+ 
  # installation
  
  The foloowing necessary dependencies must be installed to run the application.
@@ -17,10 +18,9 @@
  Apache License
 
  # questions
- undefined
+ 
  reach me out on my contact informations down below.
  
-
  # contact
  # gitHub:FatimaFBZ
  # email:fatima_baluch@hotmail.com;
