@@ -6,7 +6,7 @@ const generateMarkdown = require('./utils/generateMarkdown');
 // TODO: Create an array of questions for user input
 
 
-const questions = [{
+const questionsList = [{
     type: "input",
     message: "what is the title of the project?",
     name: "Title"
@@ -48,7 +48,7 @@ const questions = [{
     name: "Instructions",
 },{
     type: "input",
-    message: "questions?",
+    message: "any questions?",
     name: "questions ",
 },]
 
@@ -75,7 +75,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     console.log('INSIDE THE INIT!')
-    inquirer.prompt(questions)
+    inquirer.prompt(questionsList)
         .then(function (data) {
             console.log("inquirer is done")
             writeToFile('README.md', generateMarkdown(data));

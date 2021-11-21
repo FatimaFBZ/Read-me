@@ -1,28 +1,29 @@
 
-  # adf
+  # README-GENERATOR
   ![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
  # Description
- df
+ inquirer,fs.
  # Table Of Contents
  * [Installation](#installation)
  * [Usage](#usage)
  * [License](#license)
  * [questions](#questions)
  # installation
- df
+ 
  The foloowing necessary dependencies must be installed to run the application.
  # usage
- df
+ run in the terminal
  # license
  Apache License
 
  # questions
- reach me out on my contact informations down below.
  undefined
+ reach me out on my contact informations down below.
+ 
 
  # contact
- # gitHub:df
- # email:d;
+ # gitHub:FatimaFBZ
+ # email:fatima_baluch@hotmail.com;
 
 
 

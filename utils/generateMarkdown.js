@@ -54,8 +54,9 @@ function generateMarkdown(data) {
  ${data.license}
 
  # questions
+ ${data.Questions}
  reach me out on my contact informations down below.
- ${data.questions}
+ 
 
  # contact
  # gitHub:${data.username}
